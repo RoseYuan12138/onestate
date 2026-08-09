@@ -3,6 +3,8 @@
 One question-independent object-centric future state, shared by video question
 answering and future-frame generation.
 
+![OneState MVP architecture](docs/assets/onestate-mvp-architecture.png)
+
 The current repository contains a runnable synthetic MVP for the proposal. It
 is designed to validate architecture and gradient flow before spending GPU time
 on CLEVRER.
