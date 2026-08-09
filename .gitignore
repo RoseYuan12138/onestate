@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+/outputs/
+/data/
+/checkpoints/
+
+# The research repositories are local references, not vendored dependencies.
+/codebases/
